@@ -1,2 +1,9 @@
-# hg-2-bravo
-Hack Pull Request 2
+# Bravo
+> Sebastián : Team 1
+
+| Usuario       | Nombre        | Ubicación
+| ------------- | ------------- | ------------- |
+| Alfa          | Eduardo       | Caracas
+| Bravo         | Sebastián     | Valencia
+| Charlie       | Jessica       | Caracas
+| Delta         | Yoel          | Caracas
